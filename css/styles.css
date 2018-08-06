@@ -1,0 +1,35 @@
+.sidebar
+{
+  float:right;
+  background-color: blue;
+  width:30%;
+  font-size:150%;
+}
+
+.intro {
+  color:blue;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 200%;
+}
+
+.shows {
+    color:white;
+    background-color: gray;
+    width:30%
+    float:right;
+}
+
+.introPic
+{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.redrocks
+{
+  display:block;
+  margin-left:auto;
+  float:right;
+}
