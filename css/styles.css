@@ -1,9 +1,12 @@
 .sidebar
 {
   float:right;
-  background-color: blue;
   width:30%;
-  font-size:150%;
+}
+
+.sidebarMenu {
+    font-size:150%;
+    background-color: blue;
 }
 
 .intro {
@@ -14,10 +17,8 @@
 }
 
 .shows {
-    color:white;
-    background-color: gray;
-    width:30%
-    float:right;
+  color:white;
+  background-color:gray;
 }
 
 .introPic
